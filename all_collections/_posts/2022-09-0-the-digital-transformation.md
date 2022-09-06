@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital transformation: 4 key building blocks
+title: Digital transformation - 4 key building blocks
 date: 2022-09-06 10:30:00
 categories: [Enterprises Project, Red Hat, First Post]
 ---
