@@ -1,15 +1,15 @@
 name: Bhaskar Ram
-dp: https://github.com/bhaskarvilles/chirpy-images/blob/main/commons/avatar.jpeg
+dp: https://raw.githubusercontent.com/bhaskarvilles/chirpy-images/main/commons/avatar.jpeg
 description: "
   <p>
-    My research interests include blockchain security, blockchain interoperability, Web3 & Hacking. I am also contributing in open source software development as a collaborator of Hyperledger Bevel, Cactus, Cello, Fabric.
+    Hello I'm Bhaskar, a passionate computer geek and hacker. Currently my research interests include blockchain security, blockchain interoperability, Web3 & Hacking. I am also contributing in open source software development as a collaborator of Hyperledger Bevel, Cactus, Cello, Fabric.
   </p>
   <br/>
   <p>
     You should follow him on <a href='https://github.com/bhaskarvilles' target='_blank'>Github</a>
   </P>
 "
-email: dev_sharad@outlook.com
+email: bhaskar.ram@owasp.org
 contact:
   - title: linkedin
     url: https://www.linkedin.com/in/bhaskarvilles
