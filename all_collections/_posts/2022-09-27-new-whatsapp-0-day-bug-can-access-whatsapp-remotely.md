@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New WhatsApp 0-Day Bug Let Hackers Execute a Code & Take Full App Control Remotely
-date: 2022-09-27 10:00:00
+date: 2022-09-27
 categories: [Whatsapp, Hacking, 0 Day]
 ---
 
