@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google wants to become a key infrastructure provider for Web3
+title: Hyperledger Cactus Project moved to Cacti
 date: 2022-11-05
 categories: [Hyperledger, Cactus, Blockchain]
 ---
