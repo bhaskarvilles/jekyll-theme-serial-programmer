@@ -59,4 +59,4 @@ Our first effort as a community will be to finalize our modular, pluggable inter
 
 And don’t let the name fool you – the Cactus community is not at all prickly 😊. On the contrary, we are extremely open and all are welcome! You don’t have to ask to ask. Please jump into the conversation on our Chat channel, check out our repo, read the contributing document, attend our meetings, and together we can build a modular, extensible system that makes it possible to easily incorporate and integrate new blockchains as they get developed.
 
-Source : ![Hyperledger Blog](https://www.hyperledger.org/blog/2020/05/13/tsc-approves-hyperledger-cactus-as-new-project)
+Source : [Hyperledger Blog](https://www.hyperledger.org/blog/2020/05/13/tsc-approves-hyperledger-cactus-as-new-project)
