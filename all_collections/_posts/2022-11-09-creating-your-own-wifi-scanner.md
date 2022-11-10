@@ -41,11 +41,12 @@ Step #4: Create a Function to Exit
 ![alt](https://rashahacks.com/content/images/2022/11/6a4a49_2ea9bfc8b8a84664ad501479a9417702-mv2.webp)
 Step #5 Create a Function that reminds the user of the Basic Syntax, if they enter it incorrectly
 The basic syntax for this script is;
-python ./HackersAriseWiFiScanner -i <interface>
+python ./WiFiScanner -i <interface>`
 This function checks the user's syntax and if incorrect, provides a simple message informing the user of the proper syntax.
 ![alt](https://rashahacks.com/content/images/2022/11/6a4a49_cd003868a33f4788b2048bdd30a5102e-mv2.webp)
 Step #6 Create a Function to Sniff packets
 In this function, we will use scapy to sniff the wireless packets.
+
 ![alt](https://rashahacks.com/content/images/2022/11/6a4a49_8e5d1918d65f4f09aab42df675691d73-mv2.webp)
 Step #7: Check Whether Packets Contain the Beacon Frame
 In the previous step, we started sniffing packets. In this step, we check to see whether the sniffed frames are beacon frames. As we learned in the Anatomy of Wi-Fi, beacon frames are denoted by type = 0 and subtype =8.
@@ -65,7 +66,7 @@ Now we enter the main code body where we will be executing each of the defined f
 Step #12: Execute the Script
 Make certain to save your script as "HackersAriseWiFiScanner" and give yourself execute permissions (chmod 755).
 To execute your Wi-Fi scanner, enter;
-kali > python ./HackersAriseWiFiScanner -i wlan0
+kali > python ./WiFiScanner -i wlan0
 ![alt](https://rashahacks.com/content/images/2022/11/6a4a49_2ebc01ce0fb546c5a3578dc72cbfe4fb-mv2.webp)
 As you can see, the script is able to find all the Wi-Fi AP's in range and display key information you will need to hack them!
 ## Summary
